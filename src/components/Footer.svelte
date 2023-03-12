@@ -6,6 +6,7 @@
     footer{
         
         text-align: center;
+        padding: 50px;
         background: black;
     }
     .copyright{
