@@ -4,7 +4,13 @@
     <img src="/img/computers.jpg" alt="computers.jpg">
 </main>
 <style>
-	main{
+    p{
+        text-align: center;
+        padding: 20px;
+    }
+
+   
+    main{
         background: black;
 	}
     img{
