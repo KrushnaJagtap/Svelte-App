@@ -11,7 +11,8 @@
 		margin: 40px auto;
 	}
     img{
-        max-width: 100px;
+        max-width: 600px;
+        align-content: center;
     }
 
 </style>
