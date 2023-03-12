@@ -12,6 +12,7 @@
    
     main{
         background: black;
+        padding: 0%;
 	}
     img{
         max-width: 600px;
