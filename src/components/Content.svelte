@@ -9,6 +9,7 @@
 	main{
 		max-width: 960px;
 		margin: 40px auto;
+        background: black;
 	}
     img{
         max-width: 600px;
