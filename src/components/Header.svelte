@@ -19,4 +19,7 @@
         margin: 0%;
         text-align: center;
     }
+    img{
+        max-width: 150px;
+    }
 </style>
