@@ -2,11 +2,16 @@
 	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor esse repellendus ipsa nisi, 
 		est praesentium velit voluptatem numquam sit, 
 		quisquam laudantium ratione odit. Animi quidem aspernatur ipsa minus iusto rem.
+
+    <img src="/img/computers.jpg" alt="computers.jpg">
 </main>
 <style>
 	main{
 		max-width: 960px;
 		margin: 40px auto;
 	}
+    img{
+        max-width: 100px;
+    }
 
 </style>
