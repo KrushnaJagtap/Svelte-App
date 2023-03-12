@@ -6,6 +6,7 @@
     footer{
         padding: 50px;
         text-align: center;
+        background: black;
     }
     .copyright{
         color: #aaa;
