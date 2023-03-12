@@ -20,6 +20,6 @@
         text-align: center;
     }
     img{
-        max-width: 150px;
+        max-width: 120px;
     }
 </style>
