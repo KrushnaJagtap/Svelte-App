@@ -1,7 +1,7 @@
 <script>
-	export let name;
+	import Header from "./components/Header.svelte";
 </script>
-
+<Header/>
 <style>
 	h1 {
 		color: purple;
