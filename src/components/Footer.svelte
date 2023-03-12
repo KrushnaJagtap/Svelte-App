@@ -4,7 +4,7 @@
 
 <style>
     footer{
-        padding: 50px;
+        
         text-align: center;
         background: black;
     }
