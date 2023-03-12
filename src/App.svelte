@@ -4,8 +4,9 @@
 	import Content from "./components/Content.svelte";
 </script>
 <Header/>
-<Footer/>
 <Content/>
+<Footer/>
+
 
 
 
