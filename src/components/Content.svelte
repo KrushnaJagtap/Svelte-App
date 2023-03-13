@@ -1,15 +1,8 @@
 <main>
-	<p>INTEGRATED SERVICES- LAPTOP HOUSE
-
     <img src="/img/computers.jpg" alt="computers.jpg">
 </main>
-<style>
-    p{
-        text-align: center;
-        padding: 20px;
-    }
 
-   
+<style>
     main{
         background: black;
         padding: 0%;
